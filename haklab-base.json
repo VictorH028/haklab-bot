@@ -1,0 +1,16 @@
+{
+    "preguntas": [
+        {
+            "pregunta": "adios",
+            "respuesta": "¡Adiós! ¡Espero haberte ayudado!"
+        },
+        {
+            "pregunta": "como estas",
+            "respuesta": "skill"
+        },
+        {
+            "pregunta": "hola",
+            "respuesta": "¡Hola! ¿En qué puedo ayudarte hoy?"
+        }
+    ]
+}
